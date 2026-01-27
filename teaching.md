@@ -13,6 +13,10 @@
 
  * [Órai anyagok](https://github.com/Antiemes/Infobizt)
 
+## Szenzorhálózatok
+
+ * [Előadásanyagok](https://github.com/Antiemes/WSN)
+
 ## Node-Red 🔗🔴
 
  * [Node-Red 🇬🇧](https://github.com/Antiemes/NodeRed_examples)
